@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 6 Pagina Musical 1</title>
+</head>
+<body bgcolor="#00008B">
+<table bgcolor="#00008B" border="2" cellpadding="3" cellpadding="10" bordercolor="red">
+<caption align="top"><imag src="musica anim.gif" width="80" heigth="120" align="left"><font color="#ffff00" size="5" face="Arial Rounded MT Bold"><b>Mi Música, Cantantes y Artistas<br>favoritos</b></font><img src="manos.jpg" width="90" height="90" align="right"><img src="cantando.jpg" width="90" height="90" align="rigth"></caption><br></br>
+
+<tr align="center"><td><img src="musical.jpg" width="80" height="40"></td>
+<td><img src="video1.jpg" width="40" </td> 
+<td><img src="video2.jpg" width="40" </td>
+<td><img src="radio1.jpg" width="40" </td>
+<td><img src="radio2.jpg" width="40" </td></tr>
+
+    
+</table>
+</body>
+</html>
